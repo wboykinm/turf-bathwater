@@ -1,6 +1,12 @@
 # turf-bathwater
 A module to remove self-intersecting polygons from a GeoJSON input
 
+Before:
+![before](before.png)
+
+After:
+![after](after.png)
+
 ### install
 
 `npm install -g turf-bathwater`
